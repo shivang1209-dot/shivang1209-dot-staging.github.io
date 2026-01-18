@@ -1,6 +1,6 @@
 #site-setting
-url : "https://shivang1209-dot.github.io"
-github_repository: https://github.com/shivang1209-dot
+url : "https://shivang1209-dot-staging.github.io"
+github_repository: https://github.com-staging/shivang1209-dot
 theme: jekyll-theme-hacker
 title: home/sh1v4ng
 description: Welcome to my Portfolio/Write-up/Blogging Website since I'm not a Web Developer.
